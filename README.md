@@ -1,3 +1,4 @@
-# My Awesome Book
+# Jolie Developer's Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is a collection of useful information for developers interested in contributing to the [Jolie](http://www.jolie-lang.org) project. It is a working document, in the sense that expansions are always welcome.
+

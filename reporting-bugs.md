@@ -1,10 +1,21 @@
 # How to post a bug issue
 
 A bug issue must contain:
-* The version of the Jolie interpreter;
-* identifier of the operating system;
-* the stack trace printed by the interpreter, if available;
-* a link to a pull request that tests the bug.
+1. The version of the Jolie interpreter;
+2. the version of the Java Virtual Machine;
+3. identifier of the operating system;
+4. a link to a pull request that tests the bug;
+5. the stack trace printed by the interpreter, if available.
+
+Here is an easy template to start from:
+```
+Jolie Version:
+JVM Version:
+OS:
+Test Pull Request:
+
+Insert a description here (possibly with stack trace or other useful debugging info).
+```
 
 The next section gives an example of how to proceed correctly with the creation of the pull request and the issue.
 

@@ -34,5 +34,3 @@ Finally we can instruct the Run configuration to source the Netbeans-compiled `.
 
 Once configured the Run command, we can compile our extension via Netbeans. To do this we just need to click on the Build button, which should create a `.jar` under the directory `jolie_repo/extensions/my-extension/dist/` . Done that, we can proceed and Run our configuration, which should source the newly compiled `.jar` file. From now on we can modify, re-compile, and test the sources of the package directly from Netbeans.
 
-Other Content
-

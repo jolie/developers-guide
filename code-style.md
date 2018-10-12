@@ -3,7 +3,7 @@
 These are some general rules to follow when editing the Java code of the Jolie project.  
 To see the precise spacing that we use, the best way is just to have a look at the existing code.  
 If you use NetBeans and are in doubt or just lazy, at the very least use
-<a href="files/netbeans_formatting.zip" target="_new">Fabrizio's NetBeans formatting settings</a> (you can import them from the preference panel in NetBeans) and run the `Source -> Format` command before committing.
+<a href="https://github.com/jolie/developers-guide/raw/master/files/netbeans_formatting.zip" target="_new">Fabrizio's NetBeans formatting settings</a> (you can import them from the preference panel in NetBeans) and run the `Source -> Format` command before committing.
 
 ## The Rules
 

@@ -7,5 +7,5 @@
 * [Debugging Jolie in Netbeans](chapter1.md)
 * [How to make a pull request](how-to-make-a-pull-request.md)
 * [Code style](code-style.md)
-* [Jolie Next Development Guide](jolie-next-development-guide.md)
+* [\[Orphan?\] Jolie Test Suite with new classloader](jolie-next-development-guide.md)
 

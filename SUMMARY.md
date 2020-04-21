@@ -9,3 +9,7 @@
 * [Code style](code-style.md)
 * [\[Orphan?\] Jolie Test Suite with new classloader](jolie-next-development-guide.md)
 
+## Interpreter documentation
+
+* [Parsing and Loading](interpreter-documentation/parsing-and-loading.md)
+
